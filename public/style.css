@@ -1,0 +1,51 @@
+@import "~normalize.css";
+@import "~@blueprintjs/core/lib/css/blueprint.css";
+
+.app {
+  color: grey;
+}
+
+
+/* SideMenu { */
+.emenu-item-heading {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 0 5px 0;
+}
+.emenu-item {
+  padding: 4%;
+  background: #fdfdfd;
+  cursor: pointer;
+  border-bottom: 1px solid #eaeaea;
+}
+.emenu-item:hover {
+  background: #f3f3f3;
+}
+
+.search-input-container {
+  background: #f5f5f5;
+  padding: 5px 2%;
+  border-bottom: 1px solid #e0e0e0;
+}
+.emenu-item.selected {
+  background: #f3f3f3;
+}
+.emenu-item-descr {
+  margin: 0 0 5px 0;
+}
+/* SideMenu } */
+
+/* Markdown { */
+  .markdown-area{
+
+  }
+/* Markdown } */
+
+/* Header { */
+  .bp3-navbar.nav-bar {
+    background: #ededed;
+    border-bottom: 1px solid #e0e0e0;
+    box-shadow: none;
+}
+/* Header } */
+
