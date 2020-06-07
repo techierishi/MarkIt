@@ -30,7 +30,6 @@ export function SideMenu(props: any) {
     const fileMenu = (
         <Menu>
             <MenuItem icon="document" text="Delete" onClick={handleMoveOpen} />
-            <MenuItem icon="document" text="Sync" />
             <MenuItem icon="document" text="Encrypt" />
         </Menu>
     );
