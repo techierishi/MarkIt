@@ -3,7 +3,7 @@
 Another markdown editor which helps you encrypt/decrypt any text and sync data safely in cloud like Google drive
 
 ### Screen
-<img src="docs/Demo.png" alt="Demo" width="370" />
+<img src="docs/Demo.png" alt="Demo" />
 
 #### Custom markdown tag for encrypting data
 
